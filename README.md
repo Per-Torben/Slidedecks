@@ -1,1 +1,1 @@
-# Slidedecks from misc. sessions
+# Public slidedecks from misc. sessions
